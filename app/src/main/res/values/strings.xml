@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CountryApp</string>
+    <string name="an_error_occurred_while_fetching_data_from_backend">An Error Occurred while fetching data from backend</string>
+</resources>
